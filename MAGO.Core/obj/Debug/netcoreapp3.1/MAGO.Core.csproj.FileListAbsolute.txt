@@ -1,0 +1,17 @@
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\bin\Debug\netcoreapp3.1\MAGO.Core.deps.json
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\bin\Debug\netcoreapp3.1\MAGO.Core.dll
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\bin\Debug\netcoreapp3.1\MAGO.Core.pdb
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.AssemblyInfoInputs.cache
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.AssemblyInfo.cs
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.csproj.CoreCompileInputs.cache
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.dll
+E:\Development\_WORK\interviews\MAGO\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.pdb
+C:\MAGO\MAGO.Core\bin\Debug\netcoreapp3.1\MAGO.Core.deps.json
+C:\MAGO\MAGO.Core\bin\Debug\netcoreapp3.1\MAGO.Core.dll
+C:\MAGO\MAGO.Core\bin\Debug\netcoreapp3.1\MAGO.Core.pdb
+C:\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.csprojAssemblyReference.cache
+C:\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.AssemblyInfoInputs.cache
+C:\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.AssemblyInfo.cs
+C:\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.csproj.CoreCompileInputs.cache
+C:\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.dll
+C:\MAGO\MAGO.Core\obj\Debug\netcoreapp3.1\MAGO.Core.pdb
