@@ -16,6 +16,7 @@ Tests were done using Postman: https://localhost:[Post_Number]/plane
 Below is the JSON for testing for the various pnae types: Jumbo, Jet and Prop.
 
 Jumbo:
+
 {
     "plane": {
 		"flightname": "A380270",
@@ -28,6 +29,7 @@ Jumbo:
 }
 
 Jet:
+
 {
     "plane": {
 		"flightname": "B777425",
@@ -40,6 +42,7 @@ Jet:
 }
 
 Prop:
+
 {
     "plane": {
 		"flightname": "E195306",
